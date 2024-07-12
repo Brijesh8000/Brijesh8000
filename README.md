@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brijesh shaw</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img class="rounded float-start" align="right" alt="Coding" width= "400" src="hacking.gif"
+<img class="rounded float-start" align="right" alt="Coding" width= "400" src="how-does-code-integrity-work.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh8000&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh8000" /> </p>
 
